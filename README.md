@@ -6,4 +6,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia... No momento estudando sobre linguagens...
+Estudante de engenharia de software e atualmente trabalhando como aprendiz no Aiqfome. Sou apaixonado por tecnologia, tentando fazer o melhor sempre, e claro, aprender cada vez mais para uma evolução constante.
