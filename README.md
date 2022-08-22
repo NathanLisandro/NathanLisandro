@@ -7,4 +7,8 @@
 
 </div><br/>
 
-Estudante de engenharia de software e atualmente trabalhando como aprendiz no Aiqfome. Sou apaixonado por tecnologia, tentando fazer o melhor sempre, e claro, aprender cada vez mais para uma evolução constante.
+<h2>Olá meu nome é nathan aqui estão algumas coisas sobre mim:</p>
+<p>• Estudante de engenharia de software</p>
+<p>• Primeiro contato com uma linguagem de programação foi em 2015, quando eu tinha 11 anos e minha primeira linguagem que comecei a ver foi Java.</p>
+<p>• Atualmente estou construindo projetos com essas linguagens: PHP, JavaScript, HTML & CSS.
+<p>• Aprendendo cada vez mais sobre o mundo da tecnologia a cada dia que passa</p>
