@@ -14,3 +14,4 @@
 <p>• Atualmente estou construindo projetos com essas linguagens: PHP, JavaScript, HTML & CSS.
 <p>• Aprendendo cada vez mais sobre o mundo da tecnologia a cada dia que passa</p>
 <p>• Frase que me define: "Sábio é o ser humano que tem coragem de ir diante do espelho da sua alma para reconhecer seus erros e fracassos e utilizá-los para plantar as mais belas sementes no terreno de sua inteligência.", Augusto Cury.</p>
+<p>
