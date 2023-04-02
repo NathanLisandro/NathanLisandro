@@ -11,6 +11,7 @@
 <p>• Estudante de engenharia de software</p>
 <p>• Idade: 18 anos</p>
 <p>• Primeiro contato com uma linguagem de programação foi em 2015, quando eu tinha 11 anos, minha primeira linguagem foi o Java.</p>
-<p>• Atualmente estou construindo projetos com essas linguagens: PHP, JavaScript, HTML & CS.
+<p>• Atualmente estou construindo projetos com essas linguagens: PHP, JavaScript, HTML & CS.</>
+<p>• Banco de dados: PostGreSQL, MariaDB, MongoDB
 <p>• Aprendendo cada vez mais sobre o mundo da tecnologia a cada dia que passa</p>
 <p>
