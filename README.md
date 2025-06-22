@@ -9,7 +9,7 @@
 
 <h2>Olá, meu nome é Nathan. Aqui estão algumas coisas sobre mim:</h2>
 <p>• Estudante de Engenharia de Software</p>
-<p>• Idade: 19 anos</p>
+<p>• Idade: 20 anos</p>
 <p>• Primeiro contato com uma linguagem de programação foi em 2015, quando eu tinha 11 anos. Minha primeira linguagem foi Java.</p>
 <p>• Atualmente, estou construindo projetos com essas linguagens: PHP, JavaScript, HTML & CSS, e Java.</p>
 <p>• Bancos de dados: PostgreSQL, MariaDB, MongoDB</p>
