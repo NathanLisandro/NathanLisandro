@@ -7,10 +7,17 @@
 </div>
 <br/>
 
-<h2>Olá, meu nome é Nathan. Aqui estão algumas coisas sobre mim:</h2>
-<p>• Estudante de Engenharia de Software</p>
-<p>• Idade: 20 anos</p>
-<p>• Primeiro contato com uma linguagem de programação foi em 2015, quando eu tinha 11 anos. Minha primeira linguagem foi Java.</p>
-<p>• Atualmente, estou construindo projetos com essas linguagens: PHP, JavaScript, HTML & CSS, e Java.</p>
-<p>• Bancos de dados: PostgreSQL, MariaDB, MongoDB</p>
-<p>• Aprendendo cada vez mais sobre o mundo da tecnologia a cada dia que passa.</p>
+🚀 Nathan Lisandro — Software Engineer
+
+👋 Sobre mim
+
+-   🎓 Estudante de Engenharia de Software
+-   🧑‍💻 Desenvolvedor backend com foco em Java/Spring Boot e arquitetura
+    limpa
+-   💼 Atuo profissionalmente com:
+    -   PHP (Zend), MySQL, AWS S3/SQS/Rekognition
+    -   Java 21 + Spring Boot 3, PostgreSQL, Redis, RabbitMQ
+    -   Docker, Testcontainers, CI/CD, GitLab/GitHub Actions
+-   🧠 Apaixonado por arquitetura, microsserviços e otimização de
+    sistemas
+
