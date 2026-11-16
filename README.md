@@ -1,23 +1,25 @@
-<div>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</div>
-<br/>
+## Nathan Lisandro Toppa
 
-🚀 Nathan Lisandro — Software Engineer
+Engenheiro de software backend | Java · Spring Boot · Kafka | LLMs e agentes de IA
 
-👋 Sobre mim
+- Trabalho com backend de sistemas de pagamento de alto volume: Java, Spring Boot, Kafka, Oracle, Redis e Kubernetes.
+- Construo produtos com LLMs: integração com a API da Anthropic, saída estruturada, entrada multimodal e agentes de código com MCPs.
+- Formado em Engenharia de Software pela UniCesumar. O TCC (nota 9,7) avaliou às cegas GPT-5, Claude, Gemini e Llama na geração de documentação de código.
+- MBA em Arquitetura Full Cycle em andamento.
 
--   🎓 Estudante de Engenharia de Software
--   🧑‍💻 Desenvolvedor backend com foco em Java/Spring Boot e arquitetura
-    limpa
--   💼 Atuo profissionalmente com:
-    -   PHP (Zend), MySQL, AWS S3/SQS/Rekognition
-    -   Java 21 + Spring Boot 3, PostgreSQL, Redis, RabbitMQ
-    -   Docker, Testcontainers, CI/CD, GitLab/GitHub Actions
--   🧠 Apaixonado por arquitetura, microsserviços e otimização de
-    sistemas
+### Projetos em destaque
 
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Wishlist](https://github.com/NathanLisandro/Wishlist) | Lista de presentes com importação por IA: o Claude lê foto, PDF ou link e devolve os itens em saída estruturada. Dados pessoais criptografados e webhooks idempotentes do Mercado Pago. | Java 25, Spring Boot 4, PostgreSQL, Next.js 16, API da Anthropic |
+| [E-commerce com microsserviços](https://github.com/NathanLisandro/EcommerceAPP) | Pedidos e notificações orientados a eventos, com infraestrutura como código na AWS. | Java 17, Spring Boot 3, Kafka, Keycloak, Terraform, ECS Fargate |
+| [Chamajuda](https://chamajuda.com.br) | Marketplace de serviços locais no ar, desenvolvido com fluxo AI-native: agentes abrem os PRs, o CI valida, subagentes revisam primeiro e eu reviso e aprovo antes do merge. | NestJS, React Native, Next.js |
+
+### Stack
+
+- **Backend:** Java, Spring Boot, Kafka, RabbitMQ, PostgreSQL, Oracle, Redis
+- **Infra:** Docker, Kubernetes, AWS, Terraform, CI/CD
+- **IA:** API da Anthropic, MCP, Python
+- **Frontend:** React, Next.js, TypeScript
+
+[LinkedIn](https://www.linkedin.com/in/nathan-lisandro-toppa-9496271ba/)
